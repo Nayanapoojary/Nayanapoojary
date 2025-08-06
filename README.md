@@ -1,5 +1,5 @@
 # About Me:
-Hello
+Dynamic and results-focused engineering graduate with strong technical knowledge and problem-solving skills. Experienced in handling projects and working closely with teams. Looking for a Software Engineer role to apply my technical background and contribute to building useful and efficient products that make a real difference in people's lives.
 
 
 ##  Socials:
