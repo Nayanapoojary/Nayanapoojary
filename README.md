@@ -1,7 +1,7 @@
 # About Me:
-Hello!! I am Nayana Poojary
-
-Dynamic and results-focused engineering graduate with strong technical knowledge and problem-solving skills. Experienced in handling projects and working closely with teams. Looking for a Software Engineer role to apply my technical background and contribute to building useful and efficient products that make a real difference in people's lives.
+# Hello!! I am Nayana Poojary
+ 
+Dynamic and results-focused Computer Science and Engineering student with a solid foundation in software development, data structures, and problem-solving. Experienced in leading academic projects and building efficient, real-world solutions. Focused, quick to learn, and ready to contribute to practical software development in a professional environment.
 
 
 ##  Socials:
