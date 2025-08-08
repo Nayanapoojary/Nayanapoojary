@@ -1,5 +1,5 @@
 # About Me:
-# Hello! I am Nayana Poojary
+# Hello.... I am Nayana Poojary
  
 Dynamic and results-focused Computer Science and Engineering student with a solid foundation in software development, data structures, and problem-solving. Experienced in leading academic projects and building efficient, real-world solutions. Focused, quick to learn, and ready to contribute to practical software development in a professional environment.
 
